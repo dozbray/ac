@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+
+.settings/
+*.project
+*.classpath
+
+bin/
+temp-target/
+target/
+
+
+# Temporary Files
+*~
+.*.swp
+.DS_STORE
